@@ -1,9 +1,6 @@
-body, h1, h2, p, div, input, a, li, ul, button{
+body, h1, h2, h3, p, span, li, button, a, div {
     margin: 0;
-    padding: 0;
-    font-size: 13px;
-    text-decoration: none;
-    list-style: none;
+    padding: 0%;
     font-family: Arial, Helvetica, sans-serif;
 }
 .flex-row {
